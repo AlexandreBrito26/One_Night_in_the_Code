@@ -2,7 +2,7 @@
 
 Um jogo de "Survival Horror" baseado em navegador, inspirado no clássico Five Nights at Freddy's. Construído inteiramente com **HTML, CSS e Vanilla JavaScript**, sem o uso de motores de jogos (Game Engines) ou bibliotecas externas.
 
-![Capa do Projeto](link-da-sua-imagem-aqui.jpg)
+![Capa do Projeto](onenightinthecode.jpg)
 
 ## 🎮 Sobre o Jogo
 Você é o guarda de segurança noturno e seu objetivo é sobreviver das 12 AM às 6 AM. Monitore as câmeras, verifique os corredores e feche as portas para se proteger dos 4 animatrônicos, gerenciando sua energia limitada.
